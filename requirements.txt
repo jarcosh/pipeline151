@@ -1,0 +1,13 @@
+setuptools
+numpy
+multiprocess
+bruker2nifti
+h5py
+scipy
+nibabel
+scikit-learn
+scikit-image
+dipy
+matplotlib
+seaborn
+pillow
